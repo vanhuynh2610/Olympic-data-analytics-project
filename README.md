@@ -14,7 +14,7 @@ The Tokyo Olympic Data Analysis project on Azure is a comprehensive solution des
 ## Data Ingestion
 ![DataFactory](img/DataFactory.png)
 ## Data Processing
-
+![DataBrick](img/DataBrick.png)
 The data processing stage involves cleaning and transforming raw Olympic data into a structured format suitable for analysis. This step takes advantage of Azure Databricks' distributed computing capabilities for efficient processing.
 ## Conclusion
 The Olympic Data Analysis on Azure project demonstrates how to leverage Azure services for processing, analyzing, and visualizing large-scale data. By following the setup and guides provided in this repository, you can adapt the project to other domains and expand its functionalities
